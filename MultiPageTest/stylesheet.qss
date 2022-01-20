@@ -1,0 +1,42 @@
+* {
+	font-family: Gilroy;
+	font-style: normal;
+}
+
+QPushButton#LoginBtn{
+	background: #056D78;
+	color: #FFFFFF;
+	padding:8px;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+
+QPushButton#RegisterButton{
+	background: #056D78;
+	color: #FFFFFF;
+	padding:8px;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+
+QLabel#Login{
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 33px;
+}
+
+QLabel#Register{
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 33px;
+}
+
+QPushButton#RegisterBtn{
+	background-color: transparent;
+	color: #056D78;
+}
+
+QPushButton#AlreadyGotAccount{
+	background-color: transparent;
+	color: #056D78;
+}
